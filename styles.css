@@ -1,0 +1,49 @@
+body{
+    background-color:darkblue;
+    margin: 0px;
+}
+.div{
+    height: 500;
+     width: 600;
+    
+}
+
+#headerDiv{
+    background-image: url("https://sub-game.ru/upload/resize_cache/iblock/a0f/1200_1200_140cd750bba9870f18aada2478b24840a/0p97l9hxepyiyb3kzuqkz0fkqf9xelxr.png");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    line-height: 500px;
+    text-align: center;
+}
+
+#headersContainer{
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+font {
+    text-align:center;
+    color:white;
+}
+.button{
+    background-color: darkblue
+}
+
+.b{
+    background-color: darkblue;
+    border: 0px
+}
+.h{
+    margin: 10px auto 20px;
+    text-align: center
+}
+#iii{
+  text-align:left;
+  color: white;
+}
+
+.container{
+	padding: 10px;
+}
